@@ -6,8 +6,8 @@ project:
 
 website:
   title: "MUSA 550 Quarto Template"
-  site-url: "https://brookeva.github.io/Brooke-Web-Template/" 
-  repo-url: https://brookeva.github.io/Brooke-Web-Template/ 
+  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
+  repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
   repo-actions: [source]
 
   page-footer:
